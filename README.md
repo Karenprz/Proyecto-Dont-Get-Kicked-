@@ -17,7 +17,7 @@ df_kick = pd.read_csv(url_dontgetkicked)
 
 ```
 # Importante:
-El notebook usado para esta entrega tiene por nombre: **01- Exploración_preprocesado y modelos.ipynb** 
+El notebook usado para esta entrega 2 tiene por nombre: **01- Exploración_preprocesado y modelos.ipynb** 
 
 # Video de la entrega
  [Video Entrega 2](https://www.youtube.com/watch?v=hI1qfn-OvdA)
