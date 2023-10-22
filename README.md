@@ -16,5 +16,8 @@ url_dontgetkicked = 'https://raw.githubusercontent.com/SantiRestrepoOlarte/Intel
 df_kick = pd.read_csv(url_dontgetkicked)
 
 ```
+# Importante:
+El notebook usado para esta entrega tiene por nombre: 02_PREPROCESAMIENTO Y MODELOS.ipynb
+
 # Video de la entrega
  [Video Entrega 2](https://www.youtube.com/watch?v=hI1qfn-OvdA)
