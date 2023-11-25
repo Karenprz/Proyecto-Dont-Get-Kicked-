@@ -23,11 +23,11 @@ df_kick_test=pd.read_csv(url_dontgetkicked_test)
 
 ```
 # Importante:
-El notebook usado para esta entrega Final tiene por nombre: **02_PREPROCESAMIENTO_MODELOS_SUPERVISADOS_NOSUPERVISADOS_CURVAS.ipynb** 
-El notebook usado para la entrega 2 tiene por nombre:  **02_PREPROCESAMIENTO_MODELOS_SUPERVISADOS_NOSUPERVISADOS_CURVAS.ipynb** 
+- El notebook usado para esta entrega Final tiene por nombre: **02_PREPROCESAMIENTO_MODELOS_SUPERVISADOS_NOSUPERVISADOS_CURVAS.ipynb** 
+- El notebook usado para la entrega 2 tiene por nombre:  **01- Exploración_preprocesado y modelos.ipynb** 
 
 # Video de la entrega
-[Video Entrega Final](https://youtu.be/Vb7xJbboFtA?si=UqjNfBr-ppMHElvL)
-[Video Entrega 2](https://www.youtube.com/watch?v=hI1qfn-OvdA)
+-[Video Entrega Final](https://youtu.be/Vb7xJbboFtA?si=UqjNfBr-ppMHElvL)
+-[Video Entrega 2](https://www.youtube.com/watch?v=hI1qfn-OvdA)
 
  
